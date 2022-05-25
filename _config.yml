@@ -68,8 +68,8 @@ collections:
   episodes:
     output: true
 collections_dir: docs
-base_url: "/blog"
-url: "https://rodrigopace.github.io/"
+base_url: "/03-blog"
+url: "https://rodrigopace.github.io"
 
 kramdown:
   auto_ids: true
